@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/shruthika1011/gitactions-practice",
+  "homepage": "https://github.com/shruthika1011/gitactions-practice1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
